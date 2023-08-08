@@ -121,7 +121,7 @@ These unit tests, implemented within an NUnit test project, provide comprehensiv
 
 ## Images
 
-|<img src="tests.PNG" alt="image" width="400" height="300">|
+|<img src="tests.PNG" alt="image" width="450" height="300">|
 |:--:|
 |Figure 1: Test Explorer|
 
